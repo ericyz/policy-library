@@ -28,5 +28,5 @@ spec:
   parameters:
     mode: "allowlist"
     locations:
-    - asia-southeast1
+    - australia-southeast1
     exemptions: []
